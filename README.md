@@ -1,0 +1,2 @@
+# tool.createPortalVersion
+通过批处理的方式来半自动化的方式来创建版本
